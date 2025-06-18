@@ -120,7 +120,7 @@ Ruben Westerberg, E<lt>drclaw@mac.comE<gt>
 
 =head1 REPOSITORTY and BUGS
 
-Please report any bugs via git hub: L<http://github.com/drclaw1394/perl5-usac-log>
+Please report any bugs via git hub: L<http://github.com/drclaw1394/perl-usac-log>
 
 =head1 COPYRIGHT AND LICENSE
 
