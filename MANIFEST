@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/uSAC-Log.t
+lib/uSAC/Log.pm
