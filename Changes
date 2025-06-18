@@ -1,6 +1,5 @@
 Revision history for Perl extension uSAC::Log.
 
-0.01  Thu Jun 12 10:35:57 2025
-	- original version; created by h2xs 1.23 with options
-		--name uSAC::Log -X -P
+v0.1.0 2025-06-12
+  -initial release
 
