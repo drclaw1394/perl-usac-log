@@ -49,7 +49,7 @@ sub log_debug {
     &$uSAC::Main::broadcaster;
   }
   else {
-    &uSAC::Log::ger::log_trace;
+    &uSAC::Log::ger::log_debug;
   }
 }
 
@@ -59,7 +59,7 @@ sub log_warn {
     &$uSAC::Main::broadcaster;
   }
   else {
-    &uSAC::Log::ger::log_trace;
+    &uSAC::Log::ger::log_warn;
   }
 }
 sub log_info {
@@ -68,7 +68,7 @@ sub log_info {
     &$uSAC::Main::broadcaster;
   }
   else {
-    &uSAC::Log::ger::log_trace;
+    &uSAC::Log::ger::log_info;
   }
 }
 
@@ -78,7 +78,7 @@ sub log_error {
     &$uSAC::Main::broadcaster;
   }
   else {
-    &uSAC::Log::ger::log_trace;
+    &uSAC::Log::ger::log_error;
   }
 }
 
@@ -88,7 +88,7 @@ sub log_fatal {
     &$uSAC::Main::broadcaster;
   }
   else {
-    &uSAC::Log::ger::log_trace;
+    &uSAC::Log::ger::log_fatal;
   }
 }
 
